@@ -1,10 +1,3 @@
-Deep-Learning ReadME File
-
-
----
-
-## 🔍 Modules Overview
-
 ### 1️⃣ AlexNet – Convolutional Neural Network
 **File:** `AlexNet.py`
 
